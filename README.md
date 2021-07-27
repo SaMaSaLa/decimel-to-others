@@ -1,9 +1,9 @@
-# Generate Numbers
+# Decimal To Others
 
-Adds 2 numbers for a specific number of times and shows a table of the result
+Turns a Decimal (1, 2, 3,...) into a different number type
 
-- Repository URL : [generate-numbers](https://github.com/SaMaSaLa/generate-numbers)
-- Demo URL : [Demo](https://samasala.github.io/generate-numbers/)
+- Repository URL : [generate-numbers](https://github.com/SaMaSaLa/decimal-to-others)
+- Demo URL : [Demo](https://samasala.github.io/decimal-to-others/)
 
 Authors:
 
