@@ -2,7 +2,7 @@
 
 Turns a Decimal (1, 2, 3,...) into a different number type
 
-- Repository URL : [generate-numbers](https://github.com/SaMaSaLa/decimal-to-others)
+- Repository URL : [decimal-to-others](https://github.com/SaMaSaLa/decimal-to-others)
 - Demo URL : [Demo](https://samasala.github.io/decimal-to-others/)
 
 Authors:
